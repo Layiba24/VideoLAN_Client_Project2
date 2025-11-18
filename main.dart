@@ -1019,3 +1019,4 @@ class VideoSettings extends ChangeNotifier {}
 class SettingsService {
   static void addRecentFile(MediaItem item) {}
 }
+
